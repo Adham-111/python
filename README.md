@@ -19,3 +19,19 @@
 
 ![sort list ](https://github.com/user-attachments/assets/20681879-c9ab-4e45-b3bd-ff57b6c70636)
 
+
+**dommian part**
+
+![{E682D507-4B3D-4EF8-B655-CAF4E54D5EED} png](https://github.com/user-attachments/assets/74aa0554-c7d6-4f83-8095-92892a70ad50)
+
+
+
+**email vaildation**
+
+
+![validemail](https://github.com/user-attachments/assets/11f0898b-01d5-4da8-b625-289b054671ce)
+
+
+
+
+
