@@ -3,10 +3,12 @@
 
 
 
-
-
-
 ![{71172B58-00F4-4D17-8316-339A7917008F} png](https://github.com/user-attachments/assets/df6118f7-51d6-44f4-bbcd-2d7a393383a9)
+
+
+**function count vowels**
+
+![CountVowels png](https://github.com/user-attachments/assets/1387e517-2df5-475e-a2b4-170ecdf7d06b)
 
 
 **Mario pyramids**
@@ -40,6 +42,12 @@
 **email vaildation**
 
 ![validemail](https://github.com/user-attachments/assets/63a64ae1-a7d8-4ea8-8e57-8c248b65e0c2)
+**email_vaildation with filter**
+
+![return valid emails with filter ](https://github.com/user-attachments/assets/7b3c8bbe-71ad-46d0-8e7b-8aa4b34d7a93)
+
+
+
 
 
 
