@@ -22,14 +22,25 @@
 
 **dommian part**
 
-![{E682D507-4B3D-4EF8-B655-CAF4E54D5EED} png](https://github.com/user-attachments/assets/74aa0554-c7d6-4f83-8095-92892a70ad50)
+![{E682D507-4B3D-4EF8-B655-CAF4E54D5EED} png](https://github.com/user-attachments/assets/53a06619-2f9f-4b3b-99f4-2b4e85a87056)
+
+
+**import Module**
+
+![module ](https://github.com/user-attachments/assets/1ac2da4e-1907-4892-b712-5109dc546493)
+
+
+**csv file**
+
+![csv ](https://github.com/user-attachments/assets/8752d7d6-9adf-497f-a024-2ed9f85bcd91)
+
 
 
 
 **email vaildation**
 
+![validemail](https://github.com/user-attachments/assets/63a64ae1-a7d8-4ea8-8e57-8c248b65e0c2)
 
-![validemail](https://github.com/user-attachments/assets/11f0898b-01d5-4da8-b625-289b054671ce)
 
 
 
